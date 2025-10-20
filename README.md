@@ -9,11 +9,10 @@
 
 ---
 
-### 📈 Estatísticas
+### 📊 Meu Painel de Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=igorvv11&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorvv11&layout=compact&theme=tokyonight"/>
+  <img src="https://github.com/igorvv11/igorvv11/blob/main/github-metrics.svg" />
 </p>
 
 <br>
@@ -61,9 +60,9 @@
   </a>
 </p>
 
----
-
 <br>
+
+---
 
 <p align="center">
   💬 <i>“O código é a forma mais pura de transformar ideias em realidade.”</i>

@@ -9,9 +9,8 @@
 
 ### 📊 Meu Painel de Estatísticas
 
-<p align="center">
-  <img src="https://github.com/igorvv11/igorvv11/blob/main/github-metrics.svg" />
-</p>
+[![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorvv11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 

@@ -9,7 +9,15 @@
 
 ### 📊 Meu Painel de Estatísticas
 
-[![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorvv11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=igorvv11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorvv11&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 
 ---

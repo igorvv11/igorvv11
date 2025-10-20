@@ -31,7 +31,8 @@ jobs:
           plugin_stargazers: yes
           plugin_repositories: yes
           plugin_repositories_featured: igorvv11/seu-repositorio
-          output: github-metrics.svg  # Gera o arquivo SVG
+          theme: dark-neon
+          output: github-metrics.svg
 
       - name: Commit and push metrics
         run: |

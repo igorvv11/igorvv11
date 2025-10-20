@@ -9,6 +9,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
@@ -28,3 +31,12 @@ jobs:
           plugin_stargazers: yes
           plugin_repositories: yes
           plugin_repositories_featured: igorvv11/seu-repositorio
+          output: github-metrics.svg  # Gera o arquivo SVG
+
+      - name: Commit and push metrics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add github-metrics.svg
+          git commit -m "Update GitHub Metrics" || echo "No changes to commit"
+          git push

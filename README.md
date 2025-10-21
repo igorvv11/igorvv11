@@ -42,8 +42,13 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> &nbsp;
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
+
 ---
+
+
 🚀 Projetos Relevantes
+
 <p align="center">
   <a href="https://github.com/igorvv11/site_vendas_games">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=igorvv11&repo=site_vendas_games&theme=dark" />
@@ -61,7 +66,11 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=igorvv11&repo=clone_disney-&theme=dark" />
   </a>
 </p>
+
+
 ---
+
+
 ### 🌎 Onde me encontrar
 
 <p align="center">
